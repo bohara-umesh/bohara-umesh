@@ -1,3 +1,4 @@
+![logo](https://github.com/bohara-umesh/bohara-umesh/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Umesh Bohara</h1>
 <h3 align="center">A passionate full-stack developer from Nepal</h3>
 
